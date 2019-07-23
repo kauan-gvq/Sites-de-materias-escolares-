@@ -1,0 +1,17 @@
+@charset="UTF-8";
+
+body {
+	background-color: rgb(79, 148, 205);
+	font-family: lora;
+	font-size: 12pt;
+}
+interface {
+	width: 900px;
+	background-color: #FFFFF;
+	margin: 30px auto 10px auto;
+	padding: 10px;
+	box-shadow: 0px 0px 5px rgba(0,0,0,.5);
+}
+img {
+	position: center;
+}
